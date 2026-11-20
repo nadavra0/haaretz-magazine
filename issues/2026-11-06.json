@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2026-11-06",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/000001a1-a739-d720-a1a3-e7fd8e9f0001/a6/ce/4ada26c840b38078273fc71bde88/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-11-05/ty-article-magazine/.highlight/000001a1-a736-d041-a5f9-e73779220000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-04/ty-article-magazine/.highlight/000001a1-a5b4-defa-a7f7-adff35120000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-04",
+          "magazine_date": "2026-11-06",
+          "title": "בהימלאיה חיים חכמים קדמונים שמתרגלים יוגה עתיקה. אומרים שהם למדו לעוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a5b4-defa-a7f7-adff35120000/ed/21/9d5deccb4d35a253b7178682d1a0/031164.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-05/ty-article-magazine/.highlight/000001a1-a5b1-db8d-a9f7-a5fd5dd10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "היא סבלה מאלצהיימר מתקדם, חשבו שהיא איננה. האמת התגלתה בשירים שכתבה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a5b1-db8d-a9f7-a5fd5dd10000/55/71/f583ce16452cb105deea72e85db2/dementia-sharing-jpg.jpeg?precrop=939,546,x40,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-05/ty-article-magazine/.highlight/000001a1-a736-d041-a5f9-e73779220000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "אלופים במילואים מתייצבים לצד פלסטינים מול חיילים רעולי פנים. לשם הגענו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a736-d041-a5f9-e73779220000/13/b3/b621dbdf4a98a11d2d0dd3b4dbe3/bi2.jpg?precrop=1890,1098,x0,y162&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-05/ty-article/.highlight/000001a1-aae8-dd7a-a3ed-ebe847280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "לאן נעלם הכישרון היהודי לאירוניה ולסרקזם? הימין הרס לנו גם את ההומור",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-aae8-dd7a-a3ed-ebe847280000/b5/1c/0ad1802a44059a5e9a44210c0b70/6-11-26-web.jpg?precrop=1316,765,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-05/ty-article/.highlight/000001a1-aafb-d5c5-ade1-bfffff560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "תסמונת ביבי־סטוקהולם כה חזקה שהיא משנה גם את התודעה של חברי גוש השינוי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-aafb-d5c5-ade1-bfffff560000/cd/30/8be8d4094924b8d085d8634144b4/950864-2.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-04/ty-article/.highlight/000001a1-a688-d2e9-a5ad-bedab7540000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-04",
+          "magazine_date": "2026-11-06",
+          "title": "זו לא רק הדתה. זה מהלך משיחי שלם, שנועד להחליף את האליטה הישראלית",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a688-d2e9-a5ad-bedab7540000/79/e4/f8ae72174f7ca14abbaddb892e21/634997.jpg?precrop=2400,1396,x0,y61&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-04/ty-article/.highlight/000001a1-a6c2-d2e9-a5ad-bedaa3ea0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-04",
+          "magazine_date": "2026-11-06",
+          "title": "בנסיכות הזעירה של אירופה, וטו נדיר שהטיל השליט הוציא את התושבים לרחוב",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a6c2-d2e9-a5ad-bedaa3ea0000/ce/b8/105d32784d19bef02f70d121efca/67193429.JPG?precrop=2048,1190,x0,y118&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-05/ty-article-magazine/.highlight/000001a1-ac16-d2e9-a5ad-bede1bb60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "הארגמן הצורי נודע בכל העולם. מחקרים חדשים מגלים את הקשר שלו לישראל",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ac16-d2e9-a5ad-bede1bb60000/c4/09/f0b94a87442c98d8405959f50169/67193128.JPG?precrop=4000,2325,x0,y1119&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-11-04/ty-article/.highlight/000001a1-a66d-db8d-a9f7-a7ed48e00000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-11-04",
+          "magazine_date": "2026-11-06",
+          "title": "ההפגנות בצרפת הן מחאה של צעירים שמביטים לעתיד ורואים מסך שחור",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a66d-db8d-a9f7-a7ed48e00000/28/e0/08263b0c4cac87108c25a86421ef/67194519.JPG?precrop=4029,2341,x436,y622&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-11-05/ty-article-face/.highlight/000001a1-ab1e-defa-a7f7-af7fea930000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "אסנת פישמן",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab1e-defa-a7f7-af7fea930000/34/84/0942e1b645638a3d1a6bd8528733/facetemplate1800x1200-1.jpg?precrop=1800,1047,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-11-05/ty-article-magazine/.highlight/000001a1-a5d1-db8d-a9f7-a5dd84e30000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "\"אני בא מבית חרדי. היום אני מצלם גברים גדולים, עירומים\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a5d1-db8d-a9f7-a5dd84e30000/cd/a1/9e3e345045c0a1848c25719b9565/67183779.JPG?precrop=7377,4289,x0,y477&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-11-04/ty-article-magazine/.highlight/eca/000001a1-a655-defa-a7f7-ae7fdff20000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-11-04",
+          "magazine_date": "2026-11-06",
+          "title": "\"בבתי ספר רבים בווינה יש יותר מ–40% מוסלמים. זה לא ייגמר בשלום\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a655-defa-a7f7-ae7fdff20000/28/c2/624289fd470693a30c10f30c4df3/795358.jpg?precrop=2400,1395,x0,y144&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-11-04/ty-article/.highlight/eca/000001a1-a6df-d2e9-a5ad-bedf41e90000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-11-04",
+          "magazine_date": "2026-11-06",
+          "title": "ראיון קצרצר עם אמא של בחור שמעוניין לשלוח אשכנזים לאושוויץ וסוביבור",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a6df-d2e9-a5ad-bedf41e90000/ee/39/a131c701438aab65c160fd54892b/047098.jpg?precrop=1290,750,x32,y766&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-11-05/ty-article-midrug/.highlight/000001a1-ab66-dd7a-a3ed-eb6695020000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "בוי ג'ורג' נפגש עם הרצוג. טיפ: תתעקש להיות ראשון ברוטציה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab66-dd7a-a3ed-eb6695020000/8d/1f/d94ba41e48bf98f8cb5343c2bc05/021212-2.jpg?precrop=2400,1395,x0,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-11-05/ty-article/.highlight/000001a1-a6c3-db8d-a9f7-a7cfa75f0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "יש חשש שאתם רובוטים שמחויבים לבנט ולא לציבור. \"אני מבינה מה שאתה אומר\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a6c3-db8d-a9f7-a7cfa75f0000/c1/8e/91234b584ea4a6375f0d6f01c40f/67206044.JPG?precrop=879,511,x0,y2&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-11-05/ty-article-quotes/.highlight/000001a1-ab75-dd7a-a3ed-eb75cd2f0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "\"גוש הימין הוא הגוש הגדול ביותר בקרב המפלגות שאוהבות את העם והארץ הזו\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab75-dd7a-a3ed-eb75cd2f0000/b4/56/410fdadf49b9ae33071797813886/948634-3.jpg?precrop=2400,1395,x0,y160&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-11-05/ty-article-20q/.highlight/000001a1-ab28-d5c5-ade1-bf7f02570000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "לפי \"מדריך הטרמפיסט לגלקסיה\", מה הפריט הכי שימושי לטרמפיסט הבין־כוכבי?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab28-d5c5-ade1-bf7f02570000/f9/bc/7e9980d04c57a0788a82770900b1/738646-2.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-11-05/ty-article-20q/.highlight/000001a1-ab4a-dd7a-a3ed-eb4adc9c0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "20 שאלות לילדים ולילדות: איך נקרא היצור הירוק שמתפוצץ במשחק מיינקראפט?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab4a-dd7a-a3ed-eb4adc9c0000/eb/aa/b5f336374b8687888f77b7f13a08/589389.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-11-05/ty-article-magazine/.premium/000001a1-ab84-d2e9-a5ad-bbdec2500000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 6.11.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab84-d2e9-a5ad-bbdec2500000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-11-05/ty-article/000001a1-ab3d-defa-a7f7-af7fc47f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "\"שרהל'ה, אל תבכי. אמא בכתה עד שמתה\": הילדה שנשאה לאקדמיה את כאב אביה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab3d-defa-a7f7-af7fc47f0000/7c/82/50e4a5a84e5c8d7c70467b3e7827/00310230.jpg?precrop=2400,1395,x0,y205&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-11-05/ty-article/.premium/000001a1-ab88-d041-a5f9-efa93f4e0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "כרזת בחירות של הליכוד, אשדוד, 2020",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab88-d041-a5f9-efa93f4e0000/97/12/906df91c452395f1d7304ece8cc1/caro.jpg?precrop=1772,1030,x0,y13&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-11-05/ty-article/.premium/000001a1-ab8b-d32a-a5f3-ebdb4c4d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ab8b-d32a-a5f3-ebdb4c4d0000/6c/74/ef3941044bceab9a4ee1f2a3b845/cat.jpg?precrop=1083,630,x0,y287&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-11-05/ty-article/.highlight/000001a1-a718-d5c5-ade1-bf7f1b5e0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-11-05",
+          "magazine_date": "2026-11-06",
+          "title": "אזרחי מדינת ישראל, כן, הגיע הזמן להשתנות",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-a718-d5c5-ade1-bf7f1b5e0000/a8/0d/6a330fc449f8ba62aa7c691a1b8d/003339.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

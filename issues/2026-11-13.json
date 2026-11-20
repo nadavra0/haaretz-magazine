@@ -1,0 +1,298 @@
+{
+  "magazine_date": "2026-11-13",
+  "total_articles": 21,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-11/ty-article-magazine/.highlight/000001a1-ca74-da30-a7fb-dafd6b2f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "\"פשיסטים הולכים אחרי אידיאולוגיה? הם הולכים אחרי הלב. פשיזם זה כיף\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ca74-da30-a7fb-dafd6b2f0000/0c/c9/6e6750294a569051ceb1803207d6/102322.jpg?precrop=1603,932,x0,y851&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-11/ty-article-magazine/.highlight/000001a1-caea-dd4d-a9b9-ebeae5550000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "\"בחיים לא ראיתי דבר כזה יפה. אתה רק רוצה עוד ועוד. אתה לא שבע מזה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-caea-dd4d-a9b9-ebeae5550000/eb/15/8b7a11e74dfeba3c3cabce3965b1/67238700.JPG?precrop=3072,1786,x0,y1370&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-11/ty-article-magazine/.highlight/000001a1-cb16-d1ce-a9a3-eb17c3900000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "האנשים שהכי מסופקים מחיי המין הם זוגות נשואים דתיים. ויש לזה הסבר",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb16-d1ce-a9a3-eb17c3900000/77/0d/1577575faf16b202f75ec4fe9c07/1018316866.jpg?precrop=2121,1233,x0,y78&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-12/ty-article-magazine/.highlight/000001a1-c9e1-d29f-afb5-dbf103cb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "\"כן, ביצעתם רצח עם. אני מתחננת בפניכם: תחזרו לצד הנכון של ההיסטוריה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-c9e1-d29f-afb5-dbf103cb0000/1f/f4/983e9578422dbd58e3d0a91fc2e0/105969-2.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-12/ty-article/.highlight/000001a1-cb43-dd4d-a9b9-ebebd2600000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "ואז הבנקאית החביבה שאלה אותי: \"איך את יודעת שאני אדם אמיתי?\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb43-dd4d-a9b9-ebebd2600000/8f/3b/636a0033499e8c6f2b5569b66ffb/13-11-26-web.jpg?precrop=1311,762,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-11/ty-article/.highlight/000001a1-ca55-d437-affd-ebfd1b2d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "דיכאון אחרי כל בחירות? די. צריך לחדד את הגבול בין האדם למדינה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ca55-d437-affd-ebfd1b2d0000/91/39/bd00b181480ba86d467938917c5d/932180.jpg?precrop=2400,1396,x0,y76&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-11/ty-article/.highlight/000001a1-caae-d437-affd-ebfe59f60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "הישגי התלמידים ב-OECD צונחים. מדוע זה קורה דווקא במאה ה-21?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-caae-d437-affd-ebfe59f60000/d1/a7/a5b894724cb7a5ff0d408f75d4e0/844409.jpg?precrop=2400,1395,x0,y170&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-11-11/ty-article/.highlight/000001a1-ca7b-da30-a7fb-daff0f400000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "הפחד מערבים הוא דייר קבע בנפש היהודית. אי אפשר להתעלם ממנו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ca7b-da30-a7fb-daff0f400000/60/02/de227f5b41609c70507c7dd2c577/119501.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-11-12/ty-article-face/.highlight/000001a1-cb6d-dd4d-a9b9-ebef68ba0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "דלית קהן",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb6d-dd4d-a9b9-ebef68ba0000/e0/49/b4f1e1514a059f65d0527521a825/facetemplate1800x1200-1.jpg?precrop=1800,1046,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-11-12/ty-article-magazine/.highlight/000001a1-ca51-dd4d-a9b9-ebfbf0860000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "\"מטופל אחד סיפר לי שהוא ניסה לרצוח את הבוסית שלו\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ca51-dd4d-a9b9-ebfbf0860000/19/00/5aa10be248c9a061c67d6b164f49/064522.jpg?precrop=2400,1396,x0,y151&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-11-11/ty-article/.highlight/000001a1-cb02-d1ce-a9a3-eb13f4770000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-11-11",
+          "magazine_date": "2026-11-13",
+          "title": "שתי פליטות פה בנאום נתניהו הסגירו את מה שמתחולל בראש המעוות שלו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb02-d1ce-a9a3-eb13f4770000/bf/b8/3939bc264e07af1da5fa7a074d05/67266563.JPG?precrop=5744,3340,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-11-12/ty-article-midrug/.highlight/000001a1-cd31-dd4d-a9b9-effb63230000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "אולי בכל זאת החרדים? מעולם לא אכזבו אותנו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cd31-dd4d-a9b9-effb63230000/3d/45/c1e66b624532a5909a464fcd350b/headline.jpg?precrop=1999,1162,x1,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-11-12/ty-article/.highlight/000001a1-cae0-da30-a7fb-dafd9d6b0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "מפקד שב\"ס מזמין חבר לצפות באסירים בכלוב? \"רציתי לראות, הוא הכניס אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cae0-da30-a7fb-dafd9d6b0000/cd/77/861afeba4cdd94c6e2538ed2637f/67264014.JPG?precrop=641,373,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-11-12/ty-article-quotes/.highlight/000001a1-cb76-ddc9-abb7-cff623940000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "\"כדי לחקור ח\"כ בישראל, לא סתם אזרח ערבי בג'לג'וליה, צריך להביא ראיות\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb76-ddc9-abb7-cff623940000/18/78/6f77e2ea4bafab2b8e3d3a07fbe8/178159.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-11-12/ty-article-20q/.highlight/000001a1-cb5c-dd4d-a9b9-ebfe92220000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "מי מששת החברים בסדרה \"חברים\" הופיע גם ב\"סיינפלד\"?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb5c-dd4d-a9b9-ebfe92220000/46/e2/6a11b54542a1ac95bdfea2f94196/527827.jpg?precrop=2393,1391,x0,y99&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-11-12/ty-article-magazine/.highlight/000001a1-cf50-d608-a1a7-efd56a920000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "גלידת פסטו וסורבה סלרי: הגלידריה שמאתגרת את הגבול בין מתוק למלוח",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cf50-d608-a1a7-efd56a920000/02/b7/9c8188f44147bf6519dc7bef347c/1.jpg?precrop=2000,1163,x0,y89&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-11-12/ty-article-magazine/.premium/000001a1-cee6-d1ce-a9a3-eef7fa340000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 13.11.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cee6-d1ce-a9a3-eef7fa340000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-11-12/ty-article/.premium/000001a1-ceea-d1ce-a9a3-eefba5870000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "רוצה לרזות? - אכלי פחות",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ceea-d1ce-a9a3-eefba5870000/9b/6c/7f8b2e654abaa6b0273d88304538/mefursamot.jpg?precrop=1250,727,x0,y378&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-11-12/ty-article/000001a1-cef5-d292-abf9-fffd2ad70000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "בגיל 6 הפכה לחסידת אומות עולם. 85 שנים לאחר מכן מתה בישראל",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cef5-d292-abf9-fffd2ad70000/df/df/2189afcc4680ae3643033aca5669/902095862-1598799515608720-317670374695068835-n.jpg?precrop=2000,1163,x0,y138&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-11-12/ty-article/.premium/000001a1-ceed-ddc9-abb7-cfef0e1c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ceed-ddc9-abb7-cfef0e1c0000/13/b9/af15d6524dbcba161d4c56459c0b/ribooa-musaf-703.jpg?precrop=1083,630,x0,y213&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-11-12/ty-article/.highlight/000001a1-cb7e-ddc9-abb7-cffef62e0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-11-12",
+          "magazine_date": "2026-11-13",
+          "title": "ואולי זה ההסבר לתגובה באירופה ל־7 באוקטובר",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-cb7e-ddc9-abb7-cffef62e0000/28/c2/624289fd470693a30c10f30c4df3/795358.jpg?precrop=2400,1395,x0,y144&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

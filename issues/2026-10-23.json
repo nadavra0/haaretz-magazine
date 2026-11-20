@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2026-10-23",
+  "total_articles": 24,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-21/ty-article-magazine/.highlight/000001a1-5d8e-da49-abe9-5ffea4550000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-21",
+          "magazine_date": "2026-10-23",
+          "title": "באיזה שלב מופיעה תודעה אצל תינוקות? ייתכן שזה קורה כבר בבטן",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5d8e-da49-abe9-5ffea4550000/ee/46/88a9c27a4b2a9667cf5556cbaff6/66965790.JPG?precrop=5000,2909,x0,y250&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-21/ty-article-magazine/.highlight/000001a1-5dc8-d05a-abe9-7fd982d60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-21",
+          "magazine_date": "2026-10-23",
+          "title": "בגוש השינוי נחושים לוודא שאף מצביע לא יישאר בבית. איך הם יעשו זאת?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5dc8-d05a-abe9-7fd982d60000/65/a8/055d2e60454b97c15b927d8a26e6/836711-2.jpg?precrop=2400,1395,x0,y161&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-22/ty-article-magazine/.highlight/000001a1-5e1e-dc69-a1ff-7f9e990d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "השלום הסודי עם לבנון והרגע שבו נתניהו בגד בו: רון לאודר מדבר על הכול",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e1e-dc69-a1ff-7f9e990d0000/c0/93/3b19c2a64a3d8cc4ae7fd27ebe22/853913.jpg?precrop=2400,1396,x0,y205&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-10-22/ty-article-face/.highlight/000001a1-5ef4-d64b-a1ff-7ffef1140000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "זו ההופעה האחרונה של \"משפחה כן בוחרים\". והפעם, אצל הדוד הביביסט שלי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5ef4-d64b-a1ff-7ffef1140000/4e/16/ce7f43954bf4826cd9d7b6d35ce0/shani.jpg?precrop=2000,1162,x0,y796&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-22/ty-article/.highlight/000001a1-5e70-da49-abe9-5ff8c4840000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "הלווייתן של הובס נרקב על החוף, ומיליוני ישראלים לכודים בבטנו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e70-da49-abe9-5ff8c4840000/a2/6c/a3b57d564f5f9fe3fc66497eacf2/67082860.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-22/ty-article/.highlight/000001a1-6376-d46d-a1fd-e377a8e90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "הלוואי שבעוד שבועיים אוכל לכתוב על מהפך, אבל אני לא אופטימית",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-6376-d46d-a1fd-e377a8e90000/bf/69/a78503e04e3dac56f43140939dab/23-10-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-21/ty-article-magazine/.highlight/000001a1-5e68-d05a-abe9-7f79d6760000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-21",
+          "magazine_date": "2026-10-23",
+          "title": "כדי לשקם את המדינה, גם הליברלים יצטרכו לדבר על מזרחים ואשכנזים",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e68-d05a-abe9-7f79d6760000/39/05/e742ddf0434c877684f72f739cf5/849052.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-22/ty-article/.highlight/000001a1-5e54-d7ce-a9a1-dff73bdc0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "לקחתי 24 סטודנטים לקיבוץ בעוטף עזה. קרה שם משהו שכבר לא קורה באקדמיה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e54-d7ce-a9a1-dff73bdc0000/61/fb/f5341d414716837ebacdcf5e46b2/67066728.JPG?precrop=1536,893,x0,y629&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-22/ty-article/.highlight/000001a1-5e9e-d7ce-a9a1-dfff11200000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "ידעתי שהצעירים בליטא הם המאושרים בעולם, ואז ראיתי אותם רוקדים בכלא",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e9e-d7ce-a9a1-dfff11200000/ef/e7/8e9948d14944b7ecd0b96e34f43c/67072877.JPG?precrop=1530,890,x0,y191&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-10-21/ty-article/.highlight/000001a1-5e48-d05a-abe9-7f598f600000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-10-21",
+          "magazine_date": "2026-10-23",
+          "title": "חברים באים מכל עבר להיפרד מהדמוקרטיה, אבל היא לא תמות כל כך מהר",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e48-d05a-abe9-7f598f600000/6f/93/0714a7c04af8a0f1aac1daaaf851/67072802.JPG?precrop=3072,1786,x0,y1022&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-10-22/ty-article-face/.highlight/000001a1-5f96-d686-a7a9-dfb745d30000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "שחר צוברי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5f96-d686-a7a9-dfb745d30000/4f/69/dc97a136410e88627bc5510c9675/facetemplate1800x1200-1.jpg?precrop=1800,1046,x0,y37&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-10-22/ty-article-magazine/.highlight/000001a1-5e4e-d7ce-a9a1-dfef37be0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "\"גדלתי בבועה בברזיל. בבית קולנוע בגבעתיים התחלתי להבין את העולם\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e4e-d7ce-a9a1-dfef37be0000/f3/f8/14633bff4efda49c260022119451/835359.jpg?precrop=2400,1395,x0,y140&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-10-21/ty-article-magazine/.highlight/000001a1-5dd0-dc93-a7f7-7dd28b120000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-10-21",
+          "magazine_date": "2026-10-23",
+          "title": "\"יש עובדות ניקיון חכמות וכריזמטיות, אבל הן שקופות ומרגישות שהן כלום\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5dd0-dc93-a7f7-7dd28b120000/ad/47/7892fc8c4d47a3cbde981d857466/847270.jpg?precrop=2400,1396,x0,y149&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-10-21/ty-article/.highlight/000001a1-5e99-d05a-abe9-7f9991890000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-10-21",
+          "magazine_date": "2026-10-23",
+          "title": "אלה 30 שניות מהפנטות. למה נתניהו התפוצץ על מראיינת שבסך הכל אמרה כן",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e99-d05a-abe9-7f9991890000/dc/3b/9fd680d94aa7a646f6641986f9d3/67085106.JPG?precrop=737,428,x54,y182&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-10-22/ty-article-midrug/.highlight/000001a1-5f84-d686-a7a9-dfa71a220000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "קיש מבטל את מבחני המיצ\"ב. תראו מי נהיה גנן אנתרופוסופי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5f84-d686-a7a9-dfa71a220000/4d/0c/45ead4bc40b8964f1ad7042be7f2/headline.jpg?precrop=1999,1162,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-10-22/ty-article/.highlight/000001a1-5e67-dc69-a1ff-7fef8a580000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "תשבו בקואליציה עם מפלגות שמחרימות את הערבים? \"כשאתה יושב בקואליציה אתה לא אדם עצמאי\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e67-dc69-a1ff-7fef8a580000/bb/a5/4866fdeb47c2b08657d69b52cb94/67081749.JPG?precrop=6000,3488,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-10-22/ty-article-quotes/.highlight/000001a1-5f9f-d64b-a1ff-7fff87150000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "\"אני קורא לכל מי שעוסק בזה לחדול מיד\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5f9f-d64b-a1ff-7fff87150000/68/69/778dfd784e6e96caba43f760133b/303103-3.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-10-22/ty-article-20q/.highlight/000001a1-5f63-d686-a7a9-dfe3a4fb0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "מהי המדינה האחרונה בעולם שאליה הגיעו שידורי טלוויזיה?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5f63-d686-a7a9-dfe3a4fb0000/66/85/4ce7ac8c478989e5010e230456b2/654306.jpg?precrop=2324,1351,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-10-22/ty-article-magazine/.premium/000001a1-6231-da49-abe9-6ff9fe590000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 23.10.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-6231-da49-abe9-6ff9fe590000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-10-22/ty-article/.premium/000001a1-623e-d05a-abe9-673f65280000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "נתניהו בן 49; ערפאת ואולברייט התקשרו לברך ואחמד טיבי הביא פרחים",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-623e-d05a-abe9-673f65280000/40/b0/25e21ee34ab8aa053a1094b5a87e/mefursamot.jpg?precrop=1250,727,x0,y144&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-10-22/ty-article/000001a1-6373-d46d-a1fd-e373760c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "\"אני פרובוקטור, לא גיבור\": מת בוריס קוצ'ובייבסקי, מחלוצי העלייה מברה\"מ",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-6373-d46d-a1fd-e373760c0000/42/1b/b7563dbd441696db1d64c22e7a4d/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.jpg?precrop=1070,622,x129,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-10-22/ty-article/.premium/000001a1-6239-dc69-a1ff-77bdfb410000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "נתניהו באזכרה במלאת שנה לרצח יצחק רבין, הר הרצל, 1996",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-6239-dc69-a1ff-77bdfb410000/25/7d/f87f607f4884a2185fc92d87c07a/caro.jpg?precrop=2000,1163,x0,y170&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-10-22/ty-article/.premium/000001a1-623d-d64b-a1ff-7f7f3dfb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-623d-d64b-a1ff-7f7f3dfb0000/4b/60/3e6064f34db8a05fc3342667239a/ribooa-musaf-700.jpg?precrop=1083,630,x0,y244&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-10-22/ty-article/.highlight/000001a1-5e74-d05a-abe9-7f7dda0a0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-10-22",
+          "magazine_date": "2026-10-23",
+          "title": "לראשונה הבנתי למה הם ממשיכים להצביע לנתניהו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-5e74-d05a-abe9-7f7dda0a0000/57/d4/f3cde51645daacfc12994e5bca90/849045.jpg?precrop=2400,1395,x0,y115&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
