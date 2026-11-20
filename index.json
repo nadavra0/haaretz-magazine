@@ -28,7 +28,7 @@
       "magazine_date": "2026-10-23",
       "total_articles": 24,
       "section_count": 17,
-      "cover_image": null
+      "cover_image": "https://img.haarets.co.il/bs/000001a1-5ea9-dc93-a7f7-7febb6160001/e6/75/c121006540f49c619ad0e6131d33/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-10-16",
@@ -1531,6 +1531,6 @@
       "cover_image": "https://img.haarets.co.il/bs/0000017f-f90d-ddde-abff-fd6d186d0000/a9/5f/26fd9c06469c935cef27afc3c06e/2089064069.jpg?&width=1500&height=1979&cmsprod"
     }
   ],
-  "last_updated": "2026-11-20T16:57:52.754180",
+  "last_updated": "2026-11-20T17:13:43.780862",
   "total_issues": 255
 }
