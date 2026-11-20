@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2026-11-20",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/000001a1-eeb7-dad7-a9fd-eeff88130001/8f/da/dda9a30843ce87d760b2ae66dd9c/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-11-18/ty-article-magazine/.highlight/000001a1-ee13-d6a1-aba5-ee130a830000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-18/ty-article-magazine/.highlight/000001a1-ea27-d381-ade5-ebe79cf70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "50 שנה אחרי ששוגרה, וויאג'ר 1 הגיעה למרחק יום אור מכדור הארץ",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ea27-d381-ade5-ebe79cf70000/1d/d6/9e70854147b9adc3a66d997f911a/voyager-sharing.jpg?precrop=939,546,x110,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-18/ty-article-magazine/.highlight/000001a1-ee13-d6a1-aba5-ee130a830000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "התוצאות מדהימות: אפשר להחלים לגמרי מכאב כרוני בעזרת שיטה פשוטה להפליא",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ee13-d6a1-aba5-ee130a830000/a8/fb/422690f2402186fb94e7c600f4de/pain-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-18/ty-article-magazine/.highlight/000001a1-ee66-d175-abf5-fe7689560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "עם עשרות אלפי חברים ורשת של בתי קפה, צומחת בשקט קהילה יהודית למען ישוע",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ee66-d175-abf5-fe7689560000/c8/f6/54e4ad324a97ad6f9d2994db5d2b/67433158.JPG?precrop=1806,1050,x0,y246&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-18/ty-article/.highlight/000001a1-eeb5-dad7-a9fd-eeff899b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "למה נזכרתי במרדף אחרי או. ג'יי. סימפסון ואיך זה קשור לנתניהו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-eeb5-dad7-a9fd-eeff899b0000/39/e9/38fd2061494890034b6f42bcb0f4/67461648.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-11-18/ty-article/.highlight/000001a1-ef35-d9ff-a7b5-ffbf000b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "את הגזענות כלפי מזרחים אני מכירה מהבית, חבל שהחרדים ממשיכים בזה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ef35-d9ff-a7b5-ffbf000b0000/bd/75/8f979e3b4683bfe510fbf15b242e/20-11-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-18/ty-article-magazine/.highlight/000001a1-ef6a-d381-ade5-efebb3240000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "בינה מלאכותית הוטמעה בבתי המשפט בישראל. גם את ההכרעות יכתבו מכונות?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ef6a-d381-ade5-efebb3240000/c9/3c/b868749640f0b279057e492e748a/869686.jpg?precrop=2400,1395,x0,y98&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-11-18/ty-article/.highlight/000001a1-efa8-d9ff-a7b5-ffae39ed0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "ברחבי ארה\"ב ניצחו הדמוקרטים, אבל בקליפורניה ניצח הכסף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-efa8-d9ff-a7b5-ffae39ed0000/68/d3/f0ba803048c4bad3e394119fe22a/67435801.JPG?precrop=3351,1947,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-11-18/ty-article/.highlight/000001a1-efed-d9ff-a7b5-ffef568c0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "זו מילה שהחלה כשאלה, והובילה לאלפי שנים של שתיקה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-efed-d9ff-a7b5-ffef568c0000/41/7c/93ab4a3648e3adcc90b155a7591a/67441935.JPG?precrop=4431,2576,x115,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-11-18/ty-article/.highlight/000001a1-eab6-d9ff-a7b5-fbbe363f0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "להתחתן עם הידיד הגיי, לנטר את ההורים: הטרנדים החמים של הסתיו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-eab6-d9ff-a7b5-fbbe363f0000/84/8e/5c1d06264de2afca57017a36cf25/365703-3.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-11-19/ty-article-face/.highlight/000001a1-f00b-dad7-a9fd-f24b06a50000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "שגיא מוקי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f00b-dad7-a9fd-f24b06a50000/ab/1f/7da64e5241829b1de53a09629352/facetemplate1800x1200-1.jpg?precrop=1800,1047,x0,y47&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-11-19/ty-article-magazine/.highlight/000001a1-ee06-d381-ade5-efe704230000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "\"חצי מהכיתה של הבת שלי כבר עזבה את הארץ\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ee06-d381-ade5-efe704230000/07/e0/d27a842d4ab5ab1393240c229093/064546.jpg?precrop=2400,1395,x0,y51&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-11-18/ty-article-magazine/.highlight/000001a1-ee71-d381-ade5-eff13cee0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "\"כולנו קראנו בתנ\"ך. אבל פתאום אתה קורא משהו כמו ספר חנוך, ועף לך הראש\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ee71-d381-ade5-eff13cee0000/1a/c0/7987951e4076aa7b3957a6b32970/202488.jpg?precrop=2111,1227,x136,y149&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-11-18/ty-article/.highlight/000001a1-eefb-d6a1-aba5-eefbf1c20000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-11-18",
+          "magazine_date": "2026-11-20",
+          "title": "השפה של ההפך: המילון השלם של נתניהו ושקרניו להיפוך המציאות בישראל",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-eefb-d6a1-aba5-eefbf1c20000/a0/ac/7ca71175405e879d543c6041d57b/205650.jpg?precrop=1713,996,x0,y154&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-11-19/ty-article-midrug/.highlight/000001a1-f373-dad7-a9fd-f37bb22c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "האירוויזיון, גרסת אסיה. ובסוף הפיליפינים מנצחים",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f373-dad7-a9fd-f37bb22c0000/93/b3/7f5c73fb4f1ea25ed536b833607d/headline.jpg?precrop=1999,1162,x1,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-11-19/ty-article/.highlight/000001a1-eeae-d381-ade5-efef9d5a0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "נשארת עם גנץ עד המוות הפוליטי. \"עוד לא נאמרה המילה האחרונה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-eeae-d381-ade5-efef9d5a0000/26/49/0bdd7f974fafa100d6b87ab8ea0f/67460361.JPG?precrop=3638,2115,x0,y100&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-11-19/ty-article-quotes/.highlight/000001a1-f37e-d381-ade5-fbff33e20000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "\"זה אירוע חמור יותר מתוכנית אוגנדה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f37e-d381-ade5-fbff33e20000/52/7c/76dd7d4d47aaba473695052819f8/210257-2.jpg?precrop=2400,1395,x0,y148&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-11-19/ty-article-20q/.highlight/000001a1-e9df-d848-abeb-fbdf41450000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "בסרט \"הסנדק\", במה עוסק האיש שמוצא במיטתו ראש כרות של סוס?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-e9df-d848-abeb-fbdf41450000/77/8d/e9e4a7864229b022c78850ee6254/0574296.jpg?precrop=2400,1395,x0,y154&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-11-19/ty-article-magazine/.premium/000001a1-f2de-d287-adbb-f6ded1f00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 20.11.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f2de-d287-adbb-f6ded1f00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-11-19/ty-article/.premium/000001a1-f2e5-d175-abf5-fef521ca0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "לא הכל מותר לך בדירתך",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f2e5-d175-abf5-fef521ca0000/ed/66/f4189ba54e2da9a6fa2d55cb2c74/mefursamot.jpg?precrop=1250,727,x0,y3358&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-11-19/ty-article/000001a1-f2ab-d381-ade5-fbeb1f480000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "צעיר משתתפי הכרזת העצמאות מת בגיל 94: \"זה לקח הרבה זמן והיה קצת מנג'ס\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f2ab-d381-ade5-fbeb1f480000/d4/74/d6330f684090add78ce949e07cb4/860155.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-11-19/ty-article/.premium/000001a1-f2e2-d9ff-a7b5-f3eec6530000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "חיים כץ ואחמד טיבי בהצבעה על יו\"ר הכנסת, 17.11.26",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f2e2-d9ff-a7b5-f3eec6530000/28/54/5c041aca4ffe98fbe77cc38a1cbe/caro.jpg?precrop=2000,1163,x0,y170&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-11-19/ty-article/.premium/000001a1-f2e7-dad7-a9fd-f2efb0240000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-f2e7-dad7-a9fd-f2efb0240000/5d/89/81979de24d00bbb54e7b18cad95e/ribooa-musaf-704.jpg?precrop=1083,630,x0,y274&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-11-19/ty-article/.highlight/000001a1-ee8a-d381-ade5-efebcd930000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-11-19",
+          "magazine_date": "2026-11-20",
+          "title": "כלת הנובל לשלום כמעט שיכנעה אותי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-ee8a-d381-ade5-efebcd930000/d9/d6/346e08e7473d9ca0a4d2721c333a/454121.jpg?precrop=2400,1395,x0,y12&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
